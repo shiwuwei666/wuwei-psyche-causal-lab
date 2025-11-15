@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wuwei-psyche-causal-lab"
+version = "0.1.0"
+description = "Psychological causal lab: vectorization, causal graph, persona buckets, strategies, safety, and FastAPI demo"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Wuwei", email = "example@example.com"}]
+license = {file = "LICENSE"}
+dependencies = [
+  "fastapi>=0.110",
+  "uvicorn[standard]",
+  "pydantic>=2.6",
+  "httpx>=0.25",
+  "pyyaml",
+  "pytest"
+]
+
+[tool.setuptools.packages.find]
+include = ["engine*", "apps*", "wuwei_psyche_causal_lab*"]

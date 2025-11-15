@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use Wuwei Psyche Causal Lab in your research, please cite it as below."
+title: "Wuwei Psyche Causal Lab: A Lab-Edition Psychological Causal Engine"
+authors:
+  - family-names: "S."
+    given-names: "Wuwei"
+date-released: 2025-11-13
+version: "0.1.0"
+license: "AGPL-3.0-or-later"
+repository-code: " `https://github.com/你的GitHub账号/wuwei-psyche-causal-lab` "
+keywords:
+  - psychology
+  - causal modeling
+  - motives
+  - beliefs
+  - affect
+  - behavior
+  - human-like intelligence
