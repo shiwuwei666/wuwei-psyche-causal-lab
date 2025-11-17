@@ -203,7 +203,7 @@ SECURITY
 
 CODE_OF_CONDUCT
 
-## 🧾 Usage & Commercial Use
+🧾 Usage & Commercial Use
 
 - 学术研究 / 教学实验：欢迎直接使用，引用本项目即可；
 - 产品原型 / 内部 PoC：欢迎在团队内部试用；
@@ -212,7 +212,7 @@ CODE_OF_CONDUCT
 
 如需在闭源商业产品中使用本项目的部分组件（例如作为心理因果引擎的一部分），可通过仓库 Issues 或邮箱与作者洽谈单独商业授权或定制合作。
 
-## 📜 License
+📜 License
 
 本项目代码以 AGPL-3.0-or-later 许可证发布。  
 这意味着：
@@ -225,7 +225,7 @@ CODE_OF_CONDUCT
 
 ---
 
-## 开源发布长文 / 技术说明
+开源发布长文 / 技术说明
 
 一、为什么要做这样一套东西？
 
@@ -365,7 +365,7 @@ Wuwei Psyche Causal Lab · 施无畏心理因果实验室
 邮箱：shiwuwei666@163.com
 
 ---
-### 🔁 Simplified Counterfactual Demo（简化反事实示例）
+🔁 Simplified Counterfactual Demo（简化反事实示例）
 
 本仓库中包含一个简化（非专利级）反事实模拟模块：
 
